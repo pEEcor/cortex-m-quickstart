@@ -1,3 +1,6 @@
+> This is a fork of cortex-m-quickstart to provide a template for the nrf52840 processor an the
+[Black Magic Probe](https://github.com/blacksphere/blackmagic/wiki).
+
 # `cortex-m-quickstart`
 
 > A template for building applications for ARM Cortex-M microcontrollers
