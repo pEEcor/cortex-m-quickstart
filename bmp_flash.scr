@@ -2,6 +2,6 @@ target extended-remote /dev/ttyACM0
 #monitor jtag_scan
 monitor swdp_scan
 attach 1
-load
+load target/thumbv7em-none-eabihf/debug/{{project-name}}
 compare-sections
 kill
